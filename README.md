@@ -1,2 +1,2 @@
-# face-recognition
-this uses yolo V8 for attendance monitoring
+# final_sem_6
+ATTENDANCE MONITORING SYSTEM USING MACHINE LEARNING
